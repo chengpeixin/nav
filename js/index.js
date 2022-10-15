@@ -4,9 +4,8 @@ $(function(){
     navAry.push({
         title:"搜索",
         items:[
-            {src:"https://www.baidu.com/",name:"百度"},
-            {src:"https://www.google.com",name:'Google'},
-            {src:"https://cn.bing.com/",name:"Bing"}
+            {src:"https://cn.bing.com/",name:"Bing"},
+            {src:"https://www.google.com",name:'Google'}
         ]
     })
     // 视频
@@ -33,8 +32,6 @@ $(function(){
         items:[
             {src:"https://developer.mozilla.org/zh-CN/",name:"Mdn"},
             {src:"https://cn.vuejs.org/",name:"Vue"},
-            {src:"https://nodejs.org/en/",name:"Node"},
-            {src:"https://scrapy.org/",name:"Scrapy"},
         ]
     })
     // 学习资源
@@ -46,15 +43,6 @@ $(function(){
             {src:"https://www.edx.org/",name:"EDX"},
             {src:"https://www.codecademy.com/",name:"codecademy"},
             {src:"https://www.lynda.com/",name:"lynda"}
-        ]
-    })
-    // 导航
-    navAry.push({
-        title:"门户",
-        items:[
-            {src:"http://www.alloyteam.com/nav/",name:"Web前端导航"},
-            {src:"http://www.html5dw.com/",name:"H5梦工厂"},
-            {src:"http://www.daqianduan.com/",name:"大前端"}
         ]
     })
     // each
