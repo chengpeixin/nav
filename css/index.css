@@ -42,3 +42,8 @@ a:active{
     color: #2c3e50;
     margin-left:2%;
 }
+.footer{
+    position:fixed;
+    bottom:0px;
+    left:0px;
+}
